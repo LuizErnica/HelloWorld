@@ -2,7 +2,7 @@
 
 void main()
 {
-	printf("New Hello World !\n");
-	printf("Primeira alteração !\n");
+	printf("Newest Hello World !\n");
+	printf("Segunda alteração !\n");
 	printf("Primeira correção !\n");
 }
